@@ -1,0 +1,13 @@
+build/
+build-*/
+compile_commands.json
+.cache/
+*.o
+*.d
+*.log
+credis-server
+credis-tests
+
+# python bytecode from the integration driver
+__pycache__/
+*.pyc
